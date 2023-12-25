@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../Leaflet-Part2"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Images"
+		},
+		{
+			"path": "../static"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "static"
+	}
+}
